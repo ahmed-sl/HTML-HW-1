@@ -1,11 +1,4 @@
-/*Some necessary adjustments*/
-h1,
-body,
-html,
-main {
-  margin: 0;
-}
-/*Import the font and set the default size*/
+
 html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
@@ -49,16 +42,7 @@ ul {
   height: 35%;
   width: 35%;
 }
-/* br{
-  margin-left: 100px;
-} */
-/* .Order{
-  list-style-type: decimal;
-  font-size: 20px;
-} */
 .divStyle {
-  margin-top: 90px;
-  margin-bottom: 90px;
-  margin-left: 90px;
+  margin: 90px;
   font-size: 20px;
 }
